@@ -7,6 +7,18 @@
 By using advanced statistical and machine learning techniques, forecasting milk production can help to optimize production processes, reduce wastage, and ensure a stable supply of milk in the market. 
 In this project, you must explore the different methods used for forecasting milk production and the importance of accurate forecasting in the dairy industry.
 
+# Libraries
+
+Pandas
+
+Numpy
+
+matplotlib
+
+ARIMA
+
+Statsmodels
+
 # Insights:
 
 The following insights were gained from this project:
